@@ -1,0 +1,8 @@
+beautifulsoup4<=4.3.2
+pync<=1.6.1
+
+[dev]
+check-manifest
+
+[test]
+coverage

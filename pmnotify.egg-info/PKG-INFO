@@ -1,0 +1,32 @@
+Metadata-Version: 1.1
+Name: pmnotify
+Version: 1.0.0
+Summary: Avanza PM Notification Project
+Home-page: https://github.com/kamigerami/pmnotify
+Author: kamjar gerami
+Author-email: kami.gerami@gmail.com
+License: MIT
+Description: Avanza PM Notification Project
+        =======================
+        
+        This little python app will notify you whenever a new PM is available on https://www.avanza.se/placera/pressmeddelanden.html.
+        Tested on OS X Yosemite 10.10.5.
+        
+        Requires the following modules :
+        
+        beautifulsoup4 (4.3.2)
+        pync (1.6.1)
+        
+        
+        Instructions : 
+        
+        Just run the app and it will run as a daemon in the background.
+        
+Keywords: pm avanza
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7

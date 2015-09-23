@@ -1,0 +1,12 @@
+DESCRIPTION.rst
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+pmnotify/__init__.py
+pmnotify.egg-info/PKG-INFO
+pmnotify.egg-info/SOURCES.txt
+pmnotify.egg-info/dependency_links.txt
+pmnotify.egg-info/entry_points.txt
+pmnotify.egg-info/requires.txt
+pmnotify.egg-info/top_level.txt
